@@ -2,55 +2,30 @@
 
 ## About Me
 
-I'm a passionate software engineer with expertise in building scalable applications and solving complex technical challenges. I'm dedicated to continuous learning and contributing to open-source projects.
+I'm an inventor, innovator and intrapreneur who helps leaders and entrepreneurs turn complex ideas into practical, cutting-edge tech solutions that actually drive growth. Think of me as a bridge between big vision and real-world impact—I create tools, platforms, and strategies that empower people to scale their businesses and unlock new opportunities.
 
-## 🔧 Technologies & Tools
+Whether it's guiding startups to launch their first product or helping established companies embrace emerging tech like blockchain or create high impact inventions, my goal is to make innovation accessible and impactful.
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-
-## 💼 Professional Experience
-
-- **Software Engineer** - Building innovative solutions and working with modern technology stacks
-- Focus on full-stack development, cloud architecture, and DevOps practices
-- Experience with agile methodologies and collaborative development
-
-## 🚀 Key Skills
-
-- **Frontend**: React, TypeScript, JavaScript, HTML5, CSS3
-- **Backend**: Node.js, Python, RESTful APIs, GraphQL
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Tools & Practices**: Git, Agile, TDD, Code Review
+If you're ever thinking about how technology could simplify and accelerate your vision, I'd love to chat and explore how I might be able to help.
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leninmehedy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/leninmehedy/)
-[![GitHub](https://img.shields.io/badge/GitHub-leninmehedy-black?style=flat&logo=github)](https://github.com/leninmehedy)
+- 🔗 [Patents](https://a99.au/lenin-patents)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leninmehedy/)
+- 🐙 [GitHub](https://github.com/leninmehedy)
+- 🐦 [X (Twitter)](https://x.com/leninmehedy)
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leninmehedy&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-
-- Advanced system design patterns
-- Cloud-native architectures
-- Machine learning and AI integration
-
 ## 💡 Interests
 
-- Open source contribution
-- Technical writing and knowledge sharing
-- Mentoring and community building
-- Exploring new technologies and frameworks
+- Innovation and invention
+- Blockchain and emerging technologies
+- Helping startups and entrepreneurs
+- Building practical solutions for complex problems
 
 ---
 
-⭐️ From [leninmehedy](https://github.com/leninmehedy)
+_Disclaimer: Opinions are my own and do not reflect those of my employers or professional affiliations._
