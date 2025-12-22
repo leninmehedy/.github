@@ -15,10 +15,6 @@ If you're ever thinking about how technology could simplify and accelerate your 
 - 🐙 [GitHub](https://github.com/leninmehedy)
 - 🐦 [X (Twitter)](https://x.com/leninmehedy)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leninmehedy&show_icons=true&theme=radical)
-
 ## 💡 Interests
 
 - Innovation and invention
