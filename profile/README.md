@@ -14,6 +14,7 @@ If you're ever thinking about how technology could simplify and accelerate your 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leninmehedy/)
 - 🐙 [GitHub](https://github.com/leninmehedy)
 - 🐦 [X (Twitter)](https://x.com/leninmehedy)
+- 🐙 [Substack](https://substack.com/@leninmehedy)
 
 ## 💡 Interests
 
