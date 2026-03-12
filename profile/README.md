@@ -16,6 +16,7 @@ If you're ever thinking about how technology could simplify and accelerate your 
 - 🐦 [X (Twitter)](https://x.com/leninmehedy)
 - 🐙 [Substack](https://substack.com/@leninmehedy)
 - 🐦 [Youtube](https://www.youtube.com/@leninmehedy)
+- 💼 [Forbes Technology Council Member](https://councils.forbes.com/profile/Lenin-Mehedy-Principal-Engineer-HASHGRAPH/a60f1145-8200-425b-9efb-5738ccba378a)
 
 ## 💡 Interests
 
