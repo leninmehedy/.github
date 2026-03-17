@@ -8,7 +8,7 @@ Whether it's guiding startups to launch their first product or helping establish
 
 If you're ever thinking about how technology could simplify and accelerate your vision, I'd love to chat and explore how I might be able to help.
 
-## 📫 How to Reach Me
+## 📫 Explore My World
 
 - 🔗 [Patents](https://a99.au/lenin-patents)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leninmehedy/)
