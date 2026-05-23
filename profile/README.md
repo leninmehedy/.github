@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an inventor, innovator and investor. I create tools, platforms, and strategies that empower entrepreneurs scale their businesses and unlock new opportunities.
+I'm an inventor, innovator and investor. I create tools, platforms, and strategies that empower inspiring leaders scale their businesses and unlock new opportunities.
 
 ## 📫 Explore My World
 
