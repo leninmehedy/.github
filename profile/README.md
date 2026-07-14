@@ -13,6 +13,7 @@ I'm an inventor, innovator and problem solver. I create tools, platforms, and st
 - 🐙 [Substack](https://substack.com/@leninmehedy)
 - 🐦 [Youtube](https://www.youtube.com/@leninmehedy)
 - 💼 [Forbes Technology Council Member](https://councils.forbes.com/profile/Lenin-Mehedy-Principal-Engineer-HASHGRAPH/a60f1145-8200-425b-9efb-5738ccba378a)
+- 🐙 [Base44 Partner](https://app.base44.com/@leninmehedy)
 
 ## 💡 Interests
 
