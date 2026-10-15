@@ -19,7 +19,7 @@ I'm an inventor, innovator and problem solver. I create tools, platforms, and st
 
 - Innovation and invention
 - Blockchain and emerging technologies
-- Helping startups and entrepreneurs
+- Helping startups and entrepreneurs make true impact and succeed
 - Building practical solutions for complex problems
 
 ---
